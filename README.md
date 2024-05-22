@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xergan
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C, C++, C#, Java and obviously Lua
+- 🌱 I’m currently learning C, C++, C#, JavaScript and obviously Lua
 - 💞️ I’m looking to collaborate on Roblox games
 - 📫 How to reach me @xergan on Discord 
 
