@@ -1,6 +1,6 @@
 - 🕹️ Game Developer
-- 🤖 Godot Enjoyer
-- 🎈 GDScript, Python, Lua, JS, C++....
+- 💻 Website Developer
+- 📱 Mobile Developer
 
 <!---
 Xergan/Xergan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
